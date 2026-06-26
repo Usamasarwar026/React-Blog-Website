@@ -25,19 +25,19 @@ function Contactcards(props) {
 
           <ul className="flex justify-center items-center gap-2.5">
             <li>
-              <Link to="#" className="w-[45px] h-[45px] bg-action-secondary dark:bg-dark-action-secondary rounded-full flex justify-center items-center text-[22px] text-[#5865F2] hover:bg-accent hover:text-white dark:hover:bg-accent dark:hover:text-white transition-all duration-200">
+              <Link to="/" className="w-[45px] h-[45px] bg-action-secondary dark:bg-dark-action-secondary rounded-full flex justify-center items-center text-[22px] text-[#5865F2] hover:bg-accent hover:text-white dark:hover:bg-accent dark:hover:text-white transition-all duration-200">
                 <IonIcon icon={logoDiscord} />
               </Link>
             </li>
 
             <li>
-              <Link to="#" className="w-[45px] h-[45px] bg-action-secondary dark:bg-dark-action-secondary rounded-full flex justify-center items-center text-[22px] text-[#1DA1F2] hover:bg-accent hover:text-white dark:hover:bg-accent dark:hover:text-white transition-all duration-200">
+              <Link to="/" className="w-[45px] h-[45px] bg-action-secondary dark:bg-dark-action-secondary rounded-full flex justify-center items-center text-[22px] text-[#1DA1F2] hover:bg-accent hover:text-white dark:hover:bg-accent dark:hover:text-white transition-all duration-200">
                 <IonIcon icon={logoTwitter} />
               </Link>
             </li>
 
             <li>
-              <Link to="#" className="w-[45px] h-[45px] bg-action-secondary dark:bg-dark-action-secondary rounded-full flex justify-center items-center text-[22px] text-[#1877F2] hover:bg-accent hover:text-white dark:hover:bg-accent dark:hover:text-white transition-all duration-200">
+              <Link to="/" className="w-[45px] h-[45px] bg-action-secondary dark:bg-dark-action-secondary rounded-full flex justify-center items-center text-[22px] text-[#1877F2] hover:bg-accent hover:text-white dark:hover:bg-accent dark:hover:text-white transition-all duration-200">
                 <IonIcon icon={logoFacebook} />
               </Link>
             </li>

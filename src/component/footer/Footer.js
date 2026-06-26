@@ -7,7 +7,7 @@ function Footer() {
         <footer className="bg-bg-primary dark:bg-dark-bg-primary transition-colors duration-200">
           <div className="mx-auto px-[15px] md:px-[30px] w-full max-w-full md:max-w-[800px] lg:max-w-[1150px] py-20 grid grid-cols-1 sm:grid-cols-[2fr_1fr_1fr] gap-[30px]">
             <div className="text-center sm:text-left">
-              <a href="#" className="inline-block mb-2.5">
+              <a href="/" className="inline-block mb-2.5">
                 <img
                   src={require("../../assets/images/logo-light.png")}
                   alt="SimpleBlog Logo"
@@ -35,7 +35,7 @@ function Footer() {
               <ul>
                 <li className="lg:mb-[0.3rem]">
                   <a
-                    href="#"
+                    href="/"
                     className="text-fg-secondary dark:text-dark-fg-secondary hover:text-accent dark:hover:text-accent text-decoration-none transition-colors duration-200"
                   >
                     Advertise with us
@@ -43,7 +43,7 @@ function Footer() {
                 </li>
                 <li className="lg:mb-[0.3rem]">
                   <a
-                    href="#"
+                    href="/"
                     className="text-fg-secondary dark:text-dark-fg-secondary hover:text-accent dark:hover:text-accent text-decoration-none transition-colors duration-200"
                   >
                     About Us
@@ -51,7 +51,7 @@ function Footer() {
                 </li>
                 <li className="lg:mb-[0.3rem]">
                   <a
-                    href="#"
+                    href="/"
                     className="text-fg-secondary dark:text-dark-fg-secondary hover:text-accent dark:hover:text-accent text-decoration-none transition-colors duration-200"
                   >
                     Contact Us
@@ -67,7 +67,7 @@ function Footer() {
               <ul>
                 <li className="lg:mb-[0.3rem]">
                   <a
-                    href="#"
+                    href="/"
                     className="text-fg-secondary dark:text-dark-fg-secondary hover:text-accent dark:hover:text-accent text-decoration-none transition-colors duration-200"
                   >
                     Privacy Notice
@@ -83,7 +83,7 @@ function Footer() {
                 </li>
                 <li className="lg:mb-[0.3rem]">
                   <a
-                    href="#"
+                    href="/"
                     className="text-fg-secondary dark:text-dark-fg-secondary hover:text-accent dark:hover:text-accent text-decoration-none transition-colors duration-200"
                   >
                     Terms Of Use
@@ -96,7 +96,7 @@ function Footer() {
           <p className="text-fg-secondary dark:text-dark-fg-secondary text-fs-4 text-center p-4 border-t border-action-primary dark:border-dark-action-primary transition-colors duration-200">
             &copy; Copyright 2024{" "}
             <a
-              href="#"
+              href="/"
               className="text-accent dark:text-accent font-medium hover:underline text-decoration-none"
             >
               SimpleBlog
