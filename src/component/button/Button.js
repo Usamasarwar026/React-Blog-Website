@@ -14,9 +14,9 @@ export default function Button(props) {
 
   return (
     <>
-      <a href="#" type={props?.type} className={`${baseClass} ${specificClass}`}>
+      <a href="/" type={props?.type} className={`${baseClass} ${specificClass}`}>
         {props.title}
       </a>
     </>
   );
-}
+}

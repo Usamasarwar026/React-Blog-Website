@@ -75,7 +75,7 @@ function Footer() {
                 </li>
                 <li className="lg:mb-[0.3rem]">
                   <a
-                    href="#"
+                    href="/"
                     className="text-fg-secondary dark:text-dark-fg-secondary hover:text-accent dark:hover:text-accent text-decoration-none transition-colors duration-200"
                   >
                     Cookie Policy
